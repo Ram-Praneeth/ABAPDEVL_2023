@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition'
+define service ZDEVL_CDS_VELEM_SD {
+  expose Zdevl_Cds_Velem as VIRTELEM;
+}
